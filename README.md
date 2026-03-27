@@ -1,4 +1,4 @@
-**(⌐■_■)  Free Claude Code Tut by *<@1459657572771430510>*
+**(⌐■_■)  Free Claude Code Tut by *@rikkatard_*
 
 *scroll to bottom for full tut*
 
@@ -16,7 +16,7 @@ settings.json: *https://pastebin.com/ShLAK7yq*
 
 Get AI API keys from: *https://openrouter.ai/models?q=Free*
 
-Get node.js: https://nodejs.org/en/download
+Get node.js: *https://nodejs.org/en/download*
 
 Full Tut: So basically, Just download node.js, Download Claude code, Open File Explorer, Go to *C:\Users\User\.claude* Then scroll down to settings.json & open it with something, and just paste the *settings.json* from above and then paste ur model in the "*ANTHROPIC_MODEL": ""* string in the empty quotes. So it should look like this: 
 * "ANTHROPIC_MODEL": "z-ai/glm-4.5-air:free"*
